@@ -4,7 +4,8 @@ EAPI=8
 
 DESCRIPTION="Fast PlayStation 1 emulator for PC"
 HOMEPAGE="https://github.com/stenzek/duckstation"
-SRC_URI="https://github.com/stenzek/duckstation/archive/refs/tags/latest.tar.gz"
+SRC_URI="https://github.com/DanielVinicius00/dreggman/raw/main/pkgs/duckstation-0.1.tar.gz -> ${P}.tar.gz"
+
 
 LICENSE="GPL-3"
 SLOT="0"
